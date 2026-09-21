@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Word Table</title>
+
+    <!-- Link to the manifest -->
+<link rel="manifest" href="manifest.json">
+
+<!-- Register the service worker -->
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+</script>
+
+</head>
+<body>
+
+    <table border="1">
+        <tbody id="wordTable">
+        </tbody>
+    </table>
+
+    <script>
+        fetch("words.csv")
+            .then(response => response.text())
+            .then(csv => {
+                const rows = csv.trim().split("\n");
+                const table = document.getElementById("wordTable");
+
+                rows.forEach(row => {
+                    const words = row.split(",");
+
+                    const tr = document.createElement("tr");
+
+                    // Column 1
+                    const td1 = document.createElement("td");
+                    td1.textContent = words[0];
+                    tr.appendChild(td1);
+
+                    // Columns 2 and 3
+                    for (let i = 1; i <= 2; i++) {
+                        const td = document.createElement("td");
+
+                        td.textContent = "???";
+
+                        td.addEventListener("click", () => {
+                            td.textContent = words[i];
+                        });
+
+                        tr.appendChild(td);
+                    }
+
+                    table.appendChild(tr);
+                });
+            });
+    </script>
+
+</body>
+</html>
