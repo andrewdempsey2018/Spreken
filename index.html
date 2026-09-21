@@ -9,6 +9,8 @@
 
 <body>
 
+    <h1>Day 1</h1>
+
     <table border="1">
         <tbody id="wordTable">
         </tbody>
@@ -48,6 +50,35 @@
                 });
             });
     </script>
+
+        <div id="sentences"></div>
+
+    <script>
+        fetch("sentences.txt")
+            .then(response => response.text())
+            .then(text => {
+                const lines = text.trim().split(/\r?\n/);
+                const container = document.getElementById("sentences");
+
+                lines.forEach((line, index) => {
+                    const div = document.createElement("div");
+
+                    // Odd-numbered lines are hidden
+                    if ((index + 1) % 2 === 1) {
+                        div.textContent = "???";
+
+                        div.addEventListener("click", () => {
+                            div.textContent = line;
+                        });
+                    } else {
+                        div.textContent = line;
+                    }
+
+                    container.appendChild(div);
+                });
+            });
+    </script>
+
 
 </body>
 

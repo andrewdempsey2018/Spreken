@@ -1,0 +1,40 @@
+My name is Andrew.
+Mijn naam is Andrew.
+I am forty-four years old.
+Ik ben vierenveertig jaar oud.
+I live in Ireland.
+Ik woon in Ierland.
+I work as a software developer.
+Ik werk als softwareontwikkelaar.
+I work for the Irish government.
+Ik werk voor de Ierse overheid.
+I like technology.
+Ik hou van technologie.
+I really like programming.
+Ik hou erg van programmeren.
+I make games in my free time.
+Ik maak in mijn vrije tijd games.
+I am currently making a game for the NES.
+Ik maak momenteel een game voor de NES.
+I program it in 6502 assembly language.
+Ik programmeer het in 6502-assembly.
+I like old computers and video games.
+Ik hou van oude computers en videogames.
+I also like running.
+Ik hou ook van hardlopen.
+I usually run five kilometres.
+Ik loop meestal vijf kilometer.
+I like going for a walk.
+Ik wandel graag.
+I like Amsterdam very much.
+Ik vind Amsterdam erg leuk.
+I have thought about living in the Netherlands.
+Ik heb erover nagedacht om in Nederland te wonen.
+I would like to learn Dutch.
+Ik wil graag Nederlands leren.
+I want to be able to speak with Dutch people.
+Ik wil met Nederlanders kunnen praten.
+I know that learning a language takes time.
+Ik weet dat het leren van een taal tijd kost.
+But I am going to practise every day.
+Maar ik ga elke dag oefenen.
