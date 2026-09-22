@@ -1,7 +1,40 @@
-aaaaaaaa
-bbbbbb
-ccccc
-ddddd
-eeeeeee
-ffffff
-gggggggg
+I get up in the morning.
+Ik sta 's ochtends op.
+I drink water.
+Ik drink water.
+I eat breakfast.
+Ik eet ontbijt.
+I go to work.
+Ik ga naar mijn werk.
+I work during the day.
+Ik werk overdag.
+I write software.
+Ik schrijf software.
+I work on a computer.
+Ik werk op een computer.
+I like my work.
+Ik vind mijn werk leuk.
+I learn new things.
+Ik leer nieuwe dingen.
+I listen to Dutch.
+Ik luister naar Nederlands.
+I listen to Dutch every day.
+Ik luister elke dag naar Nederlands.
+I want to speak Dutch.
+Ik wil Nederlands spreken.
+I want to understand Dutch people.
+Ik wil Nederlanders begrijpen.
+I go home after work.
+Ik ga na mijn werk naar huis.
+I eat dinner.
+Ik eet avondeten.
+I work on my game.
+Ik werk aan mijn game.
+I like making games.
+Ik vind games maken leuk.
+I sometimes go running.
+Ik ga soms hardlopen.
+I listen to music.
+Ik luister naar muziek.
+I go to bed in the evening.
+Ik ga 's avonds naar bed.
