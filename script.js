@@ -1,5 +1,20 @@
 
-fetch("words_day1.csv")
+// 1. Get the query string from the current URL
+const urlParams = new URLSearchParams(window.location.search);
+
+// 2. Extract the 'id' value (returns the string "42")
+const idString = urlParams.get('id');
+
+// 3. Convert the string to an actual integer
+const idInteger = parseInt(idString, 10);
+
+// Use your integer safely
+console.log(idInteger); // Output: 42
+console.log(typeof idInteger); // Output: "number"
+
+document.getElementById('hhh').textContent = "Day " + idInteger;
+
+fetch("./data/words_day" + idInteger + ".csv")
     .then(response => response.text())
     .then(csv => {
         const rows = csv.trim().split("\n");
@@ -32,7 +47,7 @@ fetch("words_day1.csv")
         });
     });
 
-fetch("sentences_day1.txt")
+fetch("./data/sentences_day" + idInteger + ".txt")
     .then(response => response.text())
     .then(text => {
         const lines = text.trim().split(/\r?\n/);

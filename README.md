@@ -1,6 +1,6 @@
 # Spreken
 
-![alt text](image.png)
+![alt text](./assets/image.png)
 
 Dutch language learning aid.
 
