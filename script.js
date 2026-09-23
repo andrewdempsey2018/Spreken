@@ -72,5 +72,6 @@ fetch("./data/sentences_day" + idInteger + ".txt")
             }
 
             container.appendChild(div);
+
         });
     });
