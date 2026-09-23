@@ -28,7 +28,9 @@ fetch("./data/words_day" + idInteger + ".csv")
             // Column 1
             const td1 = document.createElement("td");
             td1.textContent = words[0];
+            tr.className = 'fs-3'; //rushed code
             tr.appendChild(td1);
+            
 
             // Columns 2 and 3
             for (let i = 1; i <= 2; i++) {
@@ -62,9 +64,11 @@ fetch("./data/sentences_day" + idInteger + ".txt")
 
                 div.addEventListener("click", () => {
                     div.textContent = line;
+                    div.className = 'fs-3'; //rushed code
                 });
             } else {
                 div.textContent = line;
+                div.className = 'fs-2'; //rushed code
             }
 
             container.appendChild(div);
