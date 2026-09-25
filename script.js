@@ -14,7 +14,7 @@ console.log(typeof idInteger); // Output: "number"
 
 document.getElementById('hhh').textContent = "Dag " + idInteger;
 
-fetch("./data/words_day" + idInteger + ".csv")
+fetch("./data/words_dag" + idInteger + ".csv")
     .then(response => response.text())
     .then(csv => {
         const rows = csv.trim().split("\n");
@@ -49,7 +49,7 @@ fetch("./data/words_day" + idInteger + ".csv")
         });
     });
 
-fetch("./data/sentences_day" + idInteger + ".txt")
+fetch("./data/sentences_dag" + idInteger + ".txt")
     .then(response => response.text())
     .then(text => {
         const lines = text.trim().split(/\r?\n/);

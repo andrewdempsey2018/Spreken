@@ -6,7 +6,7 @@ I eat breakfast.
 Ik eet ontbijt.
 I go to work.
 Ik ga naar mijn werk.
-I work during the day.
+I work during the dag.
 Ik werk overdag.
 I write software.
 Ik schrijf software.
@@ -18,7 +18,7 @@ I learn new things.
 Ik leer nieuwe dingen.
 I listen to Dutch.
 Ik luister naar Nederlands.
-I listen to Dutch every day.
+I listen to Dutch every dag.
 Ik luister elke dag naar Nederlands.
 I want to speak Dutch.
 Ik wil Nederlands spreken.
