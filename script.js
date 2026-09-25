@@ -12,7 +12,7 @@ const idInteger = parseInt(idString, 10);
 console.log(idInteger); // Output: 42
 console.log(typeof idInteger); // Output: "number"
 
-document.getElementById('hhh').textContent = "Day " + idInteger;
+document.getElementById('hhh').textContent = "Dag " + idInteger;
 
 fetch("./data/words_day" + idInteger + ".csv")
     .then(response => response.text())
