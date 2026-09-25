@@ -1,0 +1,60 @@
+My name is Andrew.
+Mijn naam is Andrew.
+What is your name?
+Hoe heet je?
+Where do you live?
+Waar woon je?
+I live in Ireland.
+Ik woon in Ierland.
+Where are you from?
+Waar kom je vandaan?
+I am from Ireland.
+Ik kom uit Ierland.
+Do you speak English?
+Spreek je Engels?
+I speak English.
+Ik spreek Engels.
+I am learning Dutch.
+Ik leer Nederlands.
+I speak a little Dutch.
+Ik spreek een beetje Nederlands.
+I don't understand everything.
+Ik begrijp niet alles.
+Can you speak slowly?
+Kun je langzaam praten?
+Can you say that again?
+Kun je dat nog een keer zeggen?
+What does that mean?
+Wat betekent dat?
+I understand.
+Ik begrijp het.
+I don't understand.
+Ik begrijp het niet.
+That's interesting.
+Dat is interessant.
+That's nice.
+Dat is leuk.
+Exactly!
+Precies!
+Thank you, that helps.
+Bedankt, dat helpt.
+Where do you live?
+Waar woon je?
+Where are you from?
+Waar kom je vandaan?
+What are you doing?
+Wat doe je?
+What do you like?
+Wat vind je leuk?
+What do you want?
+Wat wil je?
+When are you going?
+Wanneer ga je?
+Why are you learning Dutch?
+Waarom leer je Nederlands?
+Do you speak English?
+Spreek je Engels?
+Do you understand?
+Begrijp je het?
+Can you help me?
+Kun je me helpen?
