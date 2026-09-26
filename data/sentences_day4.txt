@@ -30,7 +30,7 @@ I find technology interesting.
 Ik vind technologie interessant.
 I like learning new things.
 Ik leer graag nieuwe dingen.
-I work on my skills every dag.
+I work on my skills every day.
 Ik werk elke dag aan mijn vaardigheden.
 Sometimes it is difficult.
 Soms is het moeilijk.
@@ -38,7 +38,7 @@ But I don't give up.
 Maar ik geef niet op.
 I will keep learning Dutch.
 Ik blijf Nederlands leren.
-I learn Dutch every dag.
+I learn Dutch every day.
 Ik leer elke dag Nederlands.
 Dutch is difficult.
 Nederlands is moeilijk.
@@ -56,5 +56,5 @@ Sometimes I forget words.
 Soms vergeet ik woorden.
 But I learn them again.
 Maar ik leer ze opnieuw.
-I work on Dutch every dag.
+I work on Dutch every day.
 Ik ben elke dag bezig met Nederlands.

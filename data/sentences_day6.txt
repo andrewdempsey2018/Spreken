@@ -22,7 +22,7 @@ I work on my game every week.
 Ik werk elke week aan mijn game.
 I am also learning Dutch.
 Ik leer ook Nederlands.
-I study Dutch every dag.
+I study Dutch every day.
 Ik studeer elke dag Nederlands.
 Sometimes I study in the morning.
 Soms studeer ik 's ochtends.
@@ -38,13 +38,13 @@ I know it takes time.
 Ik weet dat het tijd kost.
 But I am going to keep going.
 Maar ik ga door.
-I am learning Dutch every dag.
+I am learning Dutch every day.
 Ik leer elke dag Nederlands.
 I listen to Dutch in the evening.
 Ik luister 's avonds naar Nederlands.
-I practise Dutch every dag.
+I practise Dutch every day.
 Ik oefen elke dag Nederlands.
-I am busy todag.
+I am busy today.
 Ik heb het vandaag druk.
 I have time tomorrow.
 Ik heb morgen tijd.
@@ -56,5 +56,5 @@ First I work, then I study Dutch.
 Eerst werk ik, dan leer ik Nederlands.
 I still have a lot to learn.
 Ik heb nog veel te leren.
-But I understand more every dag.
+But I understand more every day.
 Maar ik begrijp elke dag meer.
